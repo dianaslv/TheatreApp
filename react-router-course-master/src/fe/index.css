@@ -1,0 +1,43 @@
+h1 {
+  text-align: center;
+}
+
+.container {
+  width: 400px;
+  margin: auto;
+  display: flex;
+
+  text-align: center;
+  flex-wrap: wrap;
+}
+
+.grid td {
+  width: 25px;
+  height: 25px;
+  text-align: center;
+  padding: 11px;
+  border-radius: 100%;
+  border: 2px solid;
+  float: left;
+  margin: 5px;
+}
+
+.grid td:hover {
+  opacity: .7;
+  cursor: pointer;
+}
+
+.reserved {
+  background: red;
+  color: #fff;
+  display: inline-block;
+}
+
+
+.available {
+  color: #333;
+}
+
+li {
+  list-style: none;
+}

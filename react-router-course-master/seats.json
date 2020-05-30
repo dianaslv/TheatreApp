@@ -1,0 +1,61 @@
+[{
+  "Id":"Ticket S1-R1:2",
+  "Section": 1,
+  "Row": 1,
+  "SeatNumber": 2,
+  "Price": 199
+},
+  {
+    "Id":"Ticket S1-R1:1",
+    "Section": 1,
+    "Row": 1,
+    "SeatNumber": 1,
+    "Price": 199
+  },
+  {
+    "Id":"Ticket S1-R2:1",
+    "Section": 1,
+    "Row": 2,
+    "SeatNumber": 1,
+    "Price": 199
+  },
+  {
+    "Id":"Ticket S1-R2:2",
+    "Section": 1,
+    "Row": 2,
+    "SeatNumber": 2,
+    "Price": 199
+  },
+  {
+    "Id":"Ticket S1-R3:1",
+    "Section": 1,
+    "Row": 3,
+    "SeatNumber": 1,
+    "Price": 250
+  }
+,
+  {
+    "Id":"Ticket S1-R3:2",
+    "Section": 1,
+    "Row": 3,
+    "SeatNumber": 2,
+    "Price": 250
+  }
+,
+  {
+    "Id":"Ticket S1-R3:3",
+    "Section": 1,
+    "Row": 3,
+    "SeatNumber": 3,
+    "Price": 250
+  }
+,
+  {
+    "Id":"Ticket S1-R3:6",
+    "Section": 1,
+    "Row": 3,
+    "SeatNumber": 6,
+    "Price": 350
+  }
+
+]
